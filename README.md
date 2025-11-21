@@ -3,7 +3,7 @@
 This project features a comprehensive Exploratory Data Analysis (EDA) on a Coursera Courses dataset sourced from Kaggle. Leveraging Python, the analysis provides essential insights into the offerings from top global universities and organizations on the platform.
 The dataset includes **~900 courses** from **150+ organizations**. The aim of this EDA is to extract valuable insights on courses' and organizations' popularity for for different stakeholders and suggest further investigation topics.
 
-**Original dataset:** [Coursera Courses dataset](https://www.kaggle.com/datasets/siddharthm1698/coursera-course-dataset)
+**Original dataset:** [Coursera Courses dataset](dataset/coursera_data.csv)
 
 **Google Colab:** [Project in Google Colab environment](https://colab.research.google.com/drive/1kfDjHJl1l4UiKptEGTp-K0T79C7QO5te?usp=sharing)
 
