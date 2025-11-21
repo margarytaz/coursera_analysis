@@ -72,7 +72,9 @@ Analysis delivered valuable insights into the course ecosystem:
 
 ## 📝 Conclusions & Suggestions
 
-
+* Further analysis can be applied to selected course organizations or study fields to find valuable insights on the quality and popularity of particular courses within organizations or areas where new courses can be introduced to fill in the gaps in learning material.
+* Course providers should prioritize content development exclusively within their key domain areas to ensure high-quality delivery, which directly impacts and helps maintain high average course ratings.
+* Course organizations could invest into developing more "Intermediate" and "Advanced" level courses to attract more specified audiences or return students from "Beginner" level courses to continue their learning jouney with the organization.
 
 ## ⚙️ Setup & Reproducibility
 
