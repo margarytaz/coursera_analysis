@@ -7,7 +7,7 @@ The dataset includes **~900 courses** from **150+ organizations**. The aim of th
 
 **Google Colab:** [Project in Google Colab environment](https://colab.research.google.com/drive/1kfDjHJl1l4UiKptEGTp-K0T79C7QO5te?usp=sharing)
 
-**Jupyter Notebook file:** [Project saved as .ipynb in this repo](Coursera_Analysis.ipynb)
+**Jupyter Notebook file:** [Project saved as .ipynb in this repo](jupyter_notebook/Coursera_Analysis.ipynb)
 
 ## ⭐ Project Goals
 
