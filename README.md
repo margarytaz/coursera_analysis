@@ -1,7 +1,7 @@
 # 🎓 Coursera Courses Dataset EDA
 
 This project features a comprehensive Exploratory Data Analysis (EDA) on a Coursera Courses dataset sourced from Kaggle. Leveraging Python, the analysis provides essential insights into the offerings from top global universities and organizations on the platform.
-The dataset includes **~900 courses** from **150+ organizations**. The aim of this EDA is to extract valuable insights on courses' and organizations' popularity for for different stakeholders and suggest further investigation topics.
+The dataset includes **~900 courses** from **150+ organizations**. The aim of this EDA is to extract valuable insights on courses' and organizations' popularity for for different stakeholders and suggest further research topics.
 
 **Original dataset:** [Coursera Courses dataset](dataset/coursera_data.csv)
 
